@@ -1,0 +1,13 @@
+- Thrust = F = $\dot{m}$ $V_e$ + ($p_e$ - $p_0$) $A_e$ 
+- The amount of thrust depends on the mass flow rate through the engine, the exit velocity of the exhaust, and the pressure at the nozzle exit.
+- The smallest cross-sectional area of the nozzle is called the **throat**. 
+- $V_e$ = exit velocity, $A_e$ = area ratio of throat to exit, $p_e$ = exit pressure
+- In the thrust eq, notice there is no free stream velocity term because no external air is brought on board.
+	- Oxidizer carried onboard rocket, so rocket can generate thrust in in a vacuum where there is no other source of oxygen.
+- On a rocket, **thrust** is used in opposition to weight. On many rockets, lift is used to stabilize and control the direction of flight.
+- The **drag** of a rocket is usually much greater than the lift.
+- A rocket gets lighter during flight, due to the expulsion of fuel, but while thrust stays the same this leads to an increase in acceleration
+- The gravitational force, F, between two particles depends on their masses, $m_1$ & $m_2$, the distance between them, d, an a universal gravitational constant, G.
+- F = $\frac{G m_1 m_2}{d^2}$ 
+- **Lift** and **drag** depend on shape of the rocket, its size, and its velocity. They also depend on the properties of the atmosphere.
+- Drag decreases as a rocket gains altitude because the Earth's atmospheric density drops exponentially the higher the rocket goes.
