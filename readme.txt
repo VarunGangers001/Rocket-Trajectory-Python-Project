@@ -1,0 +1,1 @@
+Sounding rocket trajectory simulation — self-directed project
