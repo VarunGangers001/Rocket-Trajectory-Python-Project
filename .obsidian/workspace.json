@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Week 1 Notes"
             }
+          },
+          {
+            "id": "eb15d391984130f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "references/readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "readme"
+            }
+          },
+          {
+            "id": "2dae15f938f52711",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "report/readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "readme"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aa7e8860098c36b7",
@@ -184,14 +212,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "30d9d443ca8d15f6",
+  "active": "5470f5a786dde1e7",
   "lastOpenFiles": [
+    "references/readme.md",
+    "report/readme.md",
+    "report",
+    "notes/Week 1 Notes.md",
+    "references",
     "figures/FBD rocket phase 2 (coast).jpg",
     "figures/FBD rocket phase 1 (burn).jpg",
     "figures/IMG_20260715_223803686.jpg",
     "figures/IMG_20260715_223803686.jpg.crdownload",
     "figures/IMG_20260715_223758634.jpg",
-    "figures/IMG_20260715_223758634.jpg.crdownload",
-    "notes/Week 1 Notes.md"
+    "figures/IMG_20260715_223758634.jpg.crdownload"
   ]
 }
