@@ -203,6 +203,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -212,7 +213,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "5470f5a786dde1e7",
+  "active": "2dae15f938f52711",
   "lastOpenFiles": [
     "references/readme.md",
     "report/readme.md",
